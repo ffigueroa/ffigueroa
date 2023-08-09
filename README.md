@@ -2,13 +2,13 @@
 
 ## 🚀 About Me
 
-As a highly passionate and experienced software engineer, I have spent over a decade honing my skills in the programming world. My journey began with PHP and has evolved to focus on **Javascript, Python and Go**. In my current role as a **FullStack Developer**, I utilize cutting-edge tools such as **NextJs, Express, Docker** to develop web apps and mobile, and have a strong understanding of platforms like **AWS** and GCP.
+As a passionate software engineer with over a decade of experience, I've honed my skills from early days with PHP to specializing in Javascript, Python, and Go. Throughout my journey as a Full Stack Developer, I've crafted and integrated robust hosting services, leveraging cutting-edge tools such as NextJs, Express, and Docker for web and mobile app development. My expertise extends to cloud platforms like AWS and GCP, and I've adeptly utilized Kubernetes and Terraform to optimize infrastructure and ensure scalability.
 
-In addition to my technical expertise, I have a background in marketing and eCommerce, allowing me to integrate technologies such as the **Facebook Conversion API** and create chatbots with ManyChats to drive sales and improve ROI. I am also skilled in creating email and landing page funnels to increase visitor engagement and conversions.
+Beyond technical development, I've gained substantial experience in diverse backend and frontend integrations, ranging from access control systems utilizing various languages and serving through RESTful APIs and WebSockets to eCommerce integrations with platforms like Shopify. I've also crafted tools for web scraping, enabling benchmarking based on data insights.
 
-I thrive in team environments and have **excellent interpersonal skills**, making it easy for me to adapt to new teams and projects. With a true love for technology and a hunger for continuous learning, I am excited to tackle any challenge that comes my way as a software engineer.
+I thrive in team-oriented environments and possess exemplary interpersonal skills, ensuring seamless adaptation to new projects and collaborations. With a genuine love for technology and an insatiable drive for continuous learning, I eagerly embrace the challenges and opportunities of the ever-evolving software engineering landscape.
 
-Outside of work, I enjoy spending time with my family and participating in activities such as **mountain bike and karting**.
+Outside of work, I cherish moments with my family and indulge in activities like mountain biking and karting.
 
 ## 🛠️ Skills
 
@@ -35,6 +35,8 @@ Outside of work, I enjoy spending time with my family and participating in activ
 
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=F7DF1E)
 ![docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
 
 
